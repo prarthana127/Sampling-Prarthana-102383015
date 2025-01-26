@@ -1,8 +1,7 @@
 # Sampling
 
 ## Made By
-Prarthana Samal
-Roll Number: 102383015
+Prarthana Samal (Roll Number 102383015)
 
 ## Description
 This project aims to evaluate the effectiveness of different sampling techniques and machine learning models for fraud detection in an imbalanced dataset of credit card transactions. Due to the highly imbalanced nature of the dataset, several sampling methods are explored to address the class imbalance, followed by the training and evaluation of various machine learning models.
